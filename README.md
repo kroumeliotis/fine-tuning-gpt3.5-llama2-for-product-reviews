@@ -1,4 +1,4 @@
-# Fine-Tuning GPT-3.5 and LLama 2 for Product Reviews 
+# LLMs in eCommerce: A Comparative Analysis of GPT and LLaMA Models in Product Review Evaluation
 
 **Description**:  This opensource software provides support for the scientific documentation presented in the research article entitled "Fine-Tuning Large Language Models (LLM): A Comparative Study of GPT-3.5 and LLama 2 for Enhanced E-commerce Review Satisfaction Analysis" that has been published in "" academic journal.
 
