@@ -1,9 +1,9 @@
-# LLMs in eCommerce: A Comparative Analysis of GPT and LLaMA Models in Product Review Evaluation
+# LLMs in e-commerce: A comparative analysis of GPT and LLaMA models in product review evaluation
 
 ## Published Paper
-* [Natural Language Processing Journal](https://www.sciencedirect.com/journal/natural-language-processing-journal)
-* Title: LLMs in e-commerce: A comparative analysis of GPT and LLaMA models in product review evaluation
-* DOI: https://doi.org/10.1016/j.nlp.2024.100056
+* **Journal**: [Natural Language Processing Journal](https://www.sciencedirect.com/journal/natural-language-processing-journal)
+* **Title**: LLMs in e-commerce: A comparative analysis of GPT and LLaMA models in product review evaluation
+* **DOI**: https://doi.org/10.1016/j.nlp.2024.100056
 
 ## Authors
 * **Konstantinos I. Roumeliotis**
