@@ -2,7 +2,7 @@
 
 ## Published Paper
 * **Journal**: [Natural Language Processing Journal](https://www.sciencedirect.com/journal/natural-language-processing-journal)
-* **Title**: LLMs in e-commerce: A comparative analysis of GPT and LLaMA models in product review evaluation
+* **Title**: [LLMs in e-commerce: A comparative analysis of GPT and LLaMA models in product review evaluation](https://www.sciencedirect.com/science/article/pii/S2949719124000049)
 * **DOI**: https://doi.org/10.1016/j.nlp.2024.100056
 
 ## Authors
