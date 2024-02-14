@@ -8,3 +8,8 @@
 
 * **Konstantinos I. Roumeliotis**
 * **Prof. Nikolaos D. Tselikas**
+
+## Published Paper
+* Natural Language Processing Journal
+* Title: LLMs in e-commerce: A comparative analysis of GPT and LLaMA models in product review evaluation
+* https://doi.org/10.1016/j.nlp.2024.100056
